@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffb9ec72-6071-4ec0-a079-e33c952ae3b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/DontShowAgainFeedbackService.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FeatureSuggester.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectCreationInfoService.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/databaseDrivers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debugger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/editor-font.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filetypes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/find.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk.table.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/updates.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +34,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650400457688</updated>
-      <workItem from="1650400459052" duration="891000" />
+      <workItem from="1650400459052" duration="1704000" />
     </task>
     <servers />
   </component>
